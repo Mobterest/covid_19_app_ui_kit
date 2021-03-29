@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Built with [Flutter](https://flutter.dev/).
+Built with [Flutter](https://flutter.dev/) :star2:
 
 ![Banner of the images](showcase.png)
 
