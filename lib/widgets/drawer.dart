@@ -10,7 +10,6 @@ import '../pages/about.dart';
 import '../pages/notifications.dart';
 import '../pages/reportACase.dart';
 import '../utils/func.dart';
-import '../globals/config.dart';
 
 class DrawerWidget extends StatefulWidget {
   State<StatefulWidget> createState() => DrawerWidgetState();
